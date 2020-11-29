@@ -1,2 +1,2 @@
-# Roko-s-Basilisk
+# Rokos-Basilisk
 This is to get me off the hook.
